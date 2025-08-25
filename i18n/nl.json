@@ -1,0 +1,31 @@
+{
+    "meta": {"title": "Art Sheep Studio | Animatiestudio","description":"Verhalen, zakelijke cases en contact."},
+    "nav": {"about":"Over ons","story":"Onafhankelijke verhalen","cases":"Cases","contact":"Contact","lab":"Lab"},
+    "about": {
+      "tag": "Onafhankelijk animatiestudio",
+      "h1": "Verhalen verkennen, beeld voor beeld",
+      "p": "Art Sheep Studio is een onafhankelijk animatiestudio gerund.\nIk ontwikkel originele IP’s en series, en werk ook samen met merken en onderwijsprojecten aan reclames, uitleganimaties en visuele storytelling.\n\nAnimatie kan veel: amuseren, leren, overtuigen.\nMet verschillende stijlen en media bouw ik aan mijn eigen werelden en nodig ik partners uit om samen nieuwe manieren van vertellen te verkennen."
+    },
+    "story": {
+      "h2": "Onafhankelijke verhalen",
+      "langcat": {
+        "title1":"LangCat (EN)",
+        "title2":"TaalKat (NL)",
+        "desc": "Deze speelse serie volgt een kat die taal en cultuur verkent met behulp van korte, levendige animaties. Het is een doorlopende, originele IP met een unieke stijl en gevoel voor humor."
+      }
+    },
+    "cases": {"h2":"Cases","driving":{"title":"Rijschool-advertentie","desc":"Script, storyboard, design en volledige productie. 30s uitlegvideo voor betere conversie."}},
+    "lab": {"h2": "Exploration", "bgm" : {"title": "Animatie BGM Afspeellijst", "desc": "Een afspeellijst met originele achtergrondmuziek die ik voor mijn animaties heb gemaakt — rechtenvrij en ook als zelfstandige werken."}},
+    "contact": {"h2":"Verkenning","email":"E-mail"},
+    "footer": {"rights":"Alle rechten voorbehouden."},
+    "labels": {
+      "ip":"Originele IP",
+      "vertical":"Verticaal",
+      "series": "Serie",
+      "languageen": "EN",
+      "cat": "Kat",
+      "ad": "Advertentie",
+      "explainer": "Explainer",
+      "languagenl": "NL"
+    }
+  }

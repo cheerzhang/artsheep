@@ -1,0 +1,31 @@
+{
+    "meta": {"title": "Art Sheep Studio | Indie animation studio", "description": "Stories, commercial cases, and contact."},
+    "nav": {"about":"About","story":"Independent Stories","cases":"Case Studies","contact":"Contact","lab":"Lab"},
+    "about": {
+      "tag": "Indie Animation Studio",
+      "h1": "Exploring stories, one frame at a time",
+      "p": "Art Sheep Studio is an indie animation workshop.\nHere I create original IPs and story series, and also collaborate with brands and educators on commercials, explainers, and visual storytelling.\n\nAnimation can do many things — entertain, teach, persuade.\nThrough different styles and media, I’m building worlds for my own stories, while inviting partners to explore new ways of telling theirs."
+    },
+    "story": {
+      "h2":"Independent Stories",
+      "langcat":{
+        "title1":"LangCat (EN)",
+        "title2":"TaalKat (NL)",
+        "desc": "A playful series where a cat explores languages and cultures through short, snappy animations. An ongoing original IP with its own style and humor."
+      }
+    },
+    "cases": {"h2":"Case Studies","driving":{"title":"Driving School Ad","desc":"Script, storyboard, design, and full production. 30s explainer to boost conversions."}},
+    "lab": {"h2": "Exploration", "bgm" : {"title": "Animation BGM Playlist", "desc": "A playlist of original background music prepared for my animations — copyright-safe and standalone works."}},
+    "contact": {"h2":"Contact","email":"Email"},
+    "footer": {"rights":"All rights reserved."},
+    "labels": {
+      "ip":"Original IP",
+      "vertical":"Vertical",
+      "series": "Series",
+      "languageen": "EN",
+      "cat": "Cat",
+      "ad": "Advertisement",
+      "explainer": "Explainer",
+      "languagenl": "NL"
+    }
+  }
