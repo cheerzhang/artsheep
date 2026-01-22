@@ -11,14 +11,22 @@
   ],
   "home": {
     "hero": {
-      "headline": "Finn the Goose",
-      "subheadline": "an Artsheep Studio IP",
+      "headline": "Artsheep Studio",
+      "subheadline": "IP stories and related products",
       "tagline": "Original comics • board game • merch",
       "ctaText": "Explore the Universe"
     },
     "sectionTitle": "Our Creative Universe",
     "sectionSubtitle": "Description...",
     "ipSections": [
+      {
+        "id": "finn",
+        "title": "Finn the Goose",
+        "description": "Description...",
+        "category": "Comics & Games",
+        "linkPage": "Finn",
+        "linkText": "Discover more"
+      },
       {
         "id": "finn",
         "title": "Finn the Goose",
