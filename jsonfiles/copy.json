@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "branding": {
     "name": "Artsheep Studio",
-    "tagline": "Your tagline here"
+    "tagline": "Original IP worlds: comics, games, and merch"
   },
   "navigation": [
     { "label": "Home", "page": "Home" },
@@ -11,59 +11,134 @@
   ],
   "home": {
     "hero": {
-      "headline": "Artsheep Studio",
-      "subheadline": "IP stories and related products",
+      "headline": "Finn the goose",
+      "subheadline": "an Artsheep Studio IP",
       "tagline": "Original comics • board game • merch",
-      "ctaText": "Explore the Universe"
+      "ctaText": "Enter the worlds"
     },
-    "sectionTitle": "Our Creative Universe",
-    "sectionSubtitle": "Description...",
+    "sectionTitle": "Choose a world",
+    "sectionSubtitle": "Two original IPs — more coming soon.",
     "ipSections": [
       {
         "id": "finn",
-        "title": "Finn the Goose",
-        "description": "Description...",
-        "category": "Comics & Games",
+        "title": "Finn the goose",
+        "description": "A comic universe with books, a board game, and collectible merch.",
+        "category": "Comics • Games • Merch",
         "linkPage": "Finn",
-        "linkText": "Discover more"
+        "linkText": "Shop Finn"
       },
       {
-        "id": "finn",
-        "title": "Finn the Goose",
-        "description": "Description...",
-        "category": "Comics & Games",
-        "linkPage": "Finn",
-        "linkText": "Discover more"
+        "id": "milo",
+        "title": "Milo’s Catlogic",
+        "description": "Shorts in English & Dutch, plus merch from the Milo universe.",
+        "category": "Shorts • Merch",
+        "linkPage": "Milo",
+        "linkText": "Watch & shop Milo"
       }
-    ],
-    "studioSection": {
-      "title": "Studio title",
-      "description": "Description...",
-      "features": ["Feature 1", "Feature 2"]
-    }
+    ]
   },
+
   "finn": {
     "hero": {
-      "title": "Finn the Goose",
-      "subtitle": "Subtitle",
-      "description": "Description..."
+      "title": "Finn the goose",
+      "subtitle": "an Artsheep Studio IP",
+      "description": "Shop comics and official Finn merchandise. Physical items ship from the Netherlands."
     },
-    "about": {
-      "title": "About Finn",
-      "description": "Description..."
-    }
+
+    "productsTitle": "Shop Finn",
+    "productsSubtitle": "Comics, board game, and merch",
+
+    "products": [
+      {
+        "id": "finn-comics-series",
+        "name": "Finn the goose — Comic series",
+        "description": "All available volumes (paperback + Kindle) on Amazon. Choose your country store on the product page.",
+        "type": "external",
+        "priceDisplay": "Available on Amazon",
+        "buttonText": "Buy on Amazon",
+        "url": "https://www.amazon.com/"
+      },
+      {
+        "id": "finn-boardgame",
+        "name": "Finn the goose — Board game",
+        "description": "A tabletop game set in the Finn universe. Ships from my studio in the Netherlands.",
+        "type": "physical",
+        "price": 39.0,
+        "currency": "EUR",
+        "buttonText": "Add to cart",
+        "shippingNote": "Ships from the Netherlands (Artsheep Studio)."
+      },
+      {
+        "id": "finn-postcards",
+        "name": "Finn postcard set",
+        "description": "A set of original Finn illustrations printed as postcards.",
+        "type": "physical",
+        "price": 12.0,
+        "currency": "EUR",
+        "buttonText": "Add to cart",
+        "shippingNote": "Ships from the Netherlands (Artsheep Studio)."
+      },
+      {
+        "id": "finn-keychain",
+        "name": "Finn acrylic keychain",
+        "description": "Acrylic keychain featuring Finn the goose.",
+        "type": "physical",
+        "price": 8.0,
+        "currency": "EUR",
+        "buttonText": "Add to cart",
+        "shippingNote": "Ships from the Netherlands (Artsheep Studio)."
+      }
+    ]
   },
+
   "milo": {
     "hero": {
-      "title": "Milo's Catlogic",
-      "subtitle": "Subtitle",
-      "description": "Description..."
+      "title": "Milo’s Catlogic",
+      "subtitle": "Shorts in English & Dutch",
+      "description": "Watch Milo’s Catlogic Shorts and shop official merch."
     },
-    "about": {
-      "title": "About Milo",
-      "description": "Description..."
-    }
+
+    "youtubeTitle": "Watch Milo’s Shorts",
+    "youtubeEmbeds": [
+      {
+        "id": "milo-en",
+        "title": "Milo’s Catlogic (English)",
+        "embedUrl": "https://www.youtube.com/embed?listType=user_uploads&list=REPLACE_WITH_CHANNEL_UPLOADS_LIST_EN"
+      },
+      {
+        "id": "milo-nl",
+        "title": "Milo’s Catlogic (Dutch)",
+        "embedUrl": "https://www.youtube.com/embed?listType=user_uploads&list=REPLACE_WITH_CHANNEL_UPLOADS_LIST_NL"
+      }
+    ],
+
+    "productsTitle": "Shop Milo",
+    "productsSubtitle": "Merch from the Milo universe",
+
+    "products": [
+      {
+        "id": "milo-postcards",
+        "name": "Milo postcard set",
+        "description": "A set of Milo’s Catlogic postcards.",
+        "type": "physical",
+        "price": 12.0,
+        "currency": "EUR",
+        "buttonText": "Add to cart",
+        "shippingNote": "Ships from the Netherlands (Artsheep Studio)."
+      },
+      {
+        "id": "milo-boardgame",
+        "name": "Milo’s Catlogic — Board game",
+        "description": "A tabletop game from the Milo universe. Ships from my studio in the Netherlands.",
+        "type": "physical",
+        "price": 39.0,
+        "currency": "EUR",
+        "buttonText": "Add to cart",
+        "shippingNote": "Ships from the Netherlands (Artsheep Studio)."
+      }
+    ]
   },
+
   "footer": {
     "supportLabel": "Support",
     "contactEmail": "contact@artsheep.nl",
