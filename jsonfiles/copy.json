@@ -1,39 +1,65 @@
 {
-  "version": "1",
-  "updatedAt": "2026-01-22T10:30:00Z",
-
+  "version": "1.0.0",
+  "branding": {
+    "name": "Artsheep Studio",
+    "tagline": "Your tagline here"
+  },
+  "navigation": [
+    { "label": "Home", "page": "Home" },
+    { "label": "Finn", "page": "Finn" },
+    { "label": "Milo", "page": "Milo" }
+  ],
   "home": {
     "hero": {
-      "headline": "Artsheep Studio IP Collections",
-      "subheadline": "Original comics • board game • merch"
+      "headline": "Finn the Goose",
+      "subheadline": "an Artsheep Studio IP",
+      "tagline": "Original comics • board game • merch",
+      "ctaText": "Explore the Universe"
     },
-    "sections": {
-      "finn": {
-        "title": "IP: Finn the goose",
-        "description": "A comic universe with books, a board game, and merch. Shop coming next."
-      },
-      "milo": {
-        "title": "IP: Milo’s Catlogic",
-        "description": "Two Shorts channels (EN + NL). More coming soon."
+    "sectionTitle": "Our Creative Universe",
+    "sectionSubtitle": "Description...",
+    "ipSections": [
+      {
+        "id": "finn",
+        "title": "Finn the Goose",
+        "description": "Description...",
+        "category": "Comics & Games",
+        "linkPage": "Finn",
+        "linkText": "Discover more"
       }
+    ],
+    "studioSection": {
+      "title": "Studio title",
+      "description": "Description...",
+      "features": ["Feature 1", "Feature 2"]
     }
   },
-
-  "finnPage": {
-    "title": "Finn the goose",
-    "subtitle": "An Artsheep Studio IP",
-    "about": "Finn the goose is an original comic series universe. This page will soon include the comic collection and merch."
+  "finn": {
+    "hero": {
+      "title": "Finn the Goose",
+      "subtitle": "Subtitle",
+      "description": "Description..."
+    },
+    "about": {
+      "title": "About Finn",
+      "description": "Description..."
+    }
   },
-
-  "miloPage": {
-    "title": "Milo’s Catlogic",
-    "subtitle": "Shorts in English & Dutch",
-    "about": "Watch Milo’s Catlogic on YouTube Shorts. Merch and more will be added later."
+  "milo": {
+    "hero": {
+      "title": "Milo's Catlogic",
+      "subtitle": "Subtitle",
+      "description": "Description..."
+    },
+    "about": {
+      "title": "About Milo",
+      "description": "Description..."
+    }
   },
-
   "footer": {
-    "copyright": "© Artsheep Studio",
     "supportLabel": "Support",
-    "supportHref": "mailto:artsheepnl@gmail.com"
+    "contactEmail": "contact@artsheep.nl",
+    "copyright": "© 2024 Artsheep Studio",
+    "domain": "artsheep.nl"
   }
 }
