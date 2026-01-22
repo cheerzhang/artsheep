@@ -1,0 +1,39 @@
+{
+  "version": "1",
+  "updatedAt": "2026-01-22T10:30:00Z",
+
+  "home": {
+    "hero": {
+      "headline": "Finn the goose — an Artsheep Studio IP",
+      "subheadline": "Original comics • board game • merch"
+    },
+    "sections": {
+      "finn": {
+        "title": "IP: Finn the goose",
+        "description": "A comic universe with books, a board game, and merch. Shop coming next."
+      },
+      "milo": {
+        "title": "IP: Milo’s Catlogic",
+        "description": "Two Shorts channels (EN + NL). More coming soon."
+      }
+    }
+  },
+
+  "finnPage": {
+    "title": "Finn the goose",
+    "subtitle": "An Artsheep Studio IP",
+    "about": "Finn the goose is an original comic series universe. This page will soon include the comic collection and merch."
+  },
+
+  "miloPage": {
+    "title": "Milo’s Catlogic",
+    "subtitle": "Shorts in English & Dutch",
+    "about": "Watch Milo’s Catlogic on YouTube Shorts. Merch and more will be added later."
+  },
+
+  "footer": {
+    "copyright": "© Artsheep Studio",
+    "supportLabel": "Support",
+    "supportHref": "mailto:artsheepnl@gmail.com"
+  }
+}
