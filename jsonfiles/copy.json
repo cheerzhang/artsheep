@@ -14,7 +14,7 @@
 
   "home": {
     "hero": {
-      "headline": "Artsheep Studio Offical Website",
+      "headline": "Artsheep Studio Offical Site",
       "subheadline": "IP Stories, Games and more!",
       "tagline": "Original comics • board game • merch",
       "ctaText": "Explore Our Universe"
@@ -105,7 +105,7 @@
       {
         "id": "milo-nl",
         "title": "Milo’s Catlogic (Dutch)",
-        "embedUrl": "REPLACE_WITH_DUTCH_CHANNEL_EMBED"
+        "embedUrl": "https://www.youtube.com/embed/videoseries?list=PLaWMBN1Xb8kdB0A0_Zty1dU55zgtn7O--"
       }
     ],
 
