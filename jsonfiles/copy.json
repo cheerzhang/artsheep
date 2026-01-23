@@ -14,7 +14,7 @@
 
   "home": {
     "hero": {
-      "headline": "Artsheep Studio Offical Site",
+      "headline": "Artsheep Offical Site",
       "subheadline": "IP Stories, Games and more!",
       "tagline": "Original comics • board game • merch",
       "ctaText": "Explore Our Universe"
@@ -62,7 +62,7 @@
         "id": "finn-boardgame",
         "name": "Finn the goose — Board game",
         "description": "A tabletop board game set in the Finn universe.",
-        "price": "€39",
+        "price": "€1",
         "buttonText": "Add to cart",
         "type": "physical",
         "url": ""
@@ -71,7 +71,7 @@
         "id": "finn-postcards",
         "name": "Finn postcard set",
         "description": "A set of original Finn illustrations printed as postcards.",
-        "price": "€12",
+        "price": "€1",
         "buttonText": "Add to cart",
         "type": "physical",
         "url": ""
@@ -80,7 +80,7 @@
         "id": "finn-keychain",
         "name": "Finn acrylic keychain",
         "description": "Acrylic keychain featuring Finn the goose.",
-        "price": "€8",
+        "price": "€1",
         "buttonText": "Add to cart",
         "type": "physical",
         "url": ""
