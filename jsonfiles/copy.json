@@ -138,7 +138,7 @@
     "emptyState": {
       "title": "Your cart is empty",
       "subtitle": "Browse our collection and add items to get started",
-      "buttonText": "Shop Finn Collection",
+      "buttonText": "Shop the Collection",
       "buttonTargetPage": "Finn"
     }
   },
