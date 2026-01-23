@@ -134,6 +134,15 @@
     ]
   },
 
+  "cart": {
+    "emptyState": {
+      "title": "Your cart is empty",
+      "subtitle": "Browse our collection and add items to get started",
+      "buttonText": "Shop Finn Collection",
+      "buttonTargetPage": "Finn"
+    }
+  },
+
   "footer": {
     "supportLabel": "Support",
     "contactEmail": "contact@artsheep.nl",
